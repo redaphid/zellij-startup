@@ -12,4 +12,4 @@ layout {
 }
 
 theme "dracula"
-session_serialization true
+session_serialization false
